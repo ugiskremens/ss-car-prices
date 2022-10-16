@@ -7,7 +7,7 @@ app.title('Auto cenas no ss.lv')
 
 
 def start_app():
-    # TODO save generated prices to file
+    # Generate UI
     UIElements().generate_ui()
     
     # Run app
